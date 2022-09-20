@@ -28,7 +28,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Github](https://github.com/teguhrm/interactiveratingcomponent)
-- Live Site URL: [Vercel](https://productcardcomponent.vercel.app/)
+- Live Site URL: [Vercel](https://interactiveratingcomponent-ten.vercel.app/)
 
 ## My process
 
